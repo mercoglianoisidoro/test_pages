@@ -1,8 +1,15 @@
-theme: jekyll-theme-architect
+# theme: jekyll-theme-architect
 # theme: jekyll-theme-minimal
-# remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: rundocs/jekyll-rtd-theme
 title: Architect cheatsheet
-description: description
+description: Architect is a theme for GitHub Pages.
 show_downloads: false
 plugins:
   - jekyll-relative-links
+  - jekyll-default-layout
+  - jekyll-readme-index
+  - jekyll-github-metadata
+  - jekyll-titles-from-headings
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
