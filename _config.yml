@@ -2,7 +2,7 @@
 # theme: jekyll-theme-minimal
 
 remote_theme: rundocs/jekyll-rtd-theme
-fluid: true
+# fluid: true
 
 title: Architect cheatsheet
 description: Architect cheatsheet by Isidoro Mercogliano.
