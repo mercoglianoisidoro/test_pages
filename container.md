@@ -51,5 +51,6 @@ Containers are the building blocks for cloud architectural patterns.
 
 
 ## Specifically for docker containers
+
 - Optimize for the Docker build cache
--
+
