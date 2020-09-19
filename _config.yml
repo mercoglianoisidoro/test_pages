@@ -5,7 +5,7 @@ title: Architect cheatsheet
 description: Architect is a theme for GitHub Pages.
 show_downloads: false
 
-fluid: true
+# fluid: true
 
 plugins:
   - jekyll-relative-links
