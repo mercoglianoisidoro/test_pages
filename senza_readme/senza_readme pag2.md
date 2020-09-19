@@ -1,5 +1,3 @@
-# qualcosa2
+# senza_readme pag2
 
----
-sort: 1 # follow a certain sequence of letters or numbers
----
+dsa
