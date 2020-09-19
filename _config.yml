@@ -15,3 +15,17 @@ plugins:
   - jekyll-mentions
 readme_index:
   with_frontmatter: true
+
+  author: [site.github.owner_name]
+lang: en
+
+copyright: false
+edit: false
+logo: false # relative path to your image, eg: assets/logo.png
+disqus: false # your disqus username
+
+nav_version: false
+addons: false
+addons_branch: false
+
+rougify: github # more styles see code highlight
