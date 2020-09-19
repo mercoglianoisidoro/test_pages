@@ -40,7 +40,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 # Other pages
 [second](./second_page.md)
 
-[Link to a page]({% ./second_page.md %})
+
 
 [Link to single_container](./single_container)
 [Link to single_container 2](./single_container/index.md)
