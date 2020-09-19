@@ -31,3 +31,8 @@ addons:
     - issues
     - download
 # addons_branch: true
+
+exclude:
+  - how_to.md
+  - notes.txt
+  - send.sh
