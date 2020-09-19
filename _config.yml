@@ -2,10 +2,10 @@
 # theme: jekyll-theme-minimal
 remote_theme: rundocs/jekyll-rtd-theme
 title: Architect cheatsheet
-description: Architect is a theme for GitHub Pages.
+description: Architect cheatsheet by Isidoro Mercogliano.
 show_downloads: true
 
-# fluid: true
+fluid: true
 
 plugins:
   - jekyll-relative-links
@@ -22,7 +22,7 @@ plugins:
 readme_index:
   with_frontmatter: true
 
-author: [site.github.owner_name]
+author: [Isidoro Mercogliano]
 lang: en
 
 copyright: false
