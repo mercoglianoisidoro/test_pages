@@ -7,6 +7,8 @@ sort: 2
 **Container:**
 (from docker.com) a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
 
+Containers are the building blocks for cloud architectural patterns.
+
 ## Techonologies:
 
 ### Docker
@@ -29,3 +31,25 @@ sort: 2
 
 **Link:** [cri-o.io](https://cri-o.io/#what-is-cri-o)
 
+# Containerization
+
+- Goals:
+  - establish boundaries around specific resources
+  - separation of concerns
+
+# Best practices for building containers
+
+[from cloud.google.com](https://cloud.google.com/solutions/best-practices-for-building-containers)
+
+- Package a single app per container
+- Properly handle PID 1, signal handling, and zombie processes (the first process launched in a container gets PID 1. Both Docker and Kubernetes can only send signals to the process that has PID 1 inside a container)
+- Remove unnecessary tools
+- Build the smallest image possible
+- Use vulnerability scanning in Container Registry
+- Properly tag your images
+- Carefully consider whether to use a public image
+
+
+## Specifically for docker containers
+- Optimize for the Docker build cache
+-

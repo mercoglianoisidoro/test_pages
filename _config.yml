@@ -4,8 +4,8 @@
 remote_theme: rundocs/jekyll-rtd-theme
 # fluid: true
 
-title: Cloud Architect Cheatsheet
-description: Cloud Architect Cheatsheet by Isidoro Mercogliano.
+title: Isidoro 's Cloud Architect Cheatsheet
+# description: Cloud Architect Cheatsheet by Isidoro Mercogliano.
 author: [Isidoro Mercogliano]
 lang: en
 
