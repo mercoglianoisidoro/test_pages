@@ -15,7 +15,7 @@ plugins:
   - jekyll-mentions
 
 
-  
+
 readme_index:
   with_frontmatter: true
 
