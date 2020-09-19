@@ -38,4 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 # Other pages
-[second](./second_page)
+[second](./second_page.md)
+
+[Link to a page]({% ./second_page.md %})
