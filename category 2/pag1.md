@@ -2,7 +2,7 @@
 sort: 2 # follow a certain sequence of letters or numbers
 ---
 
-# senza_readme pag1
+# pag1
 
 
 dsa
