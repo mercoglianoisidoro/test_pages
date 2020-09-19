@@ -1,11 +1,20 @@
 # theme: jekyll-theme-architect
 # theme: jekyll-theme-minimal
+
 remote_theme: rundocs/jekyll-rtd-theme
+fluid: true
+
+
 title: Architect cheatsheet
 description: Architect cheatsheet by Isidoro Mercogliano.
-show_downloads: true
+author: [Isidoro Mercogliano]
+lang: en
 
-fluid: true
+copyright: false
+edit: false
+show_downloads: true
+readme_index:
+  with_frontmatter: true
 
 plugins:
   - jekyll-relative-links
@@ -16,35 +25,10 @@ plugins:
   - jemoji
   - jekyll-avatar
   - jekyll-mentions
-
-readme_index:
-  with_frontmatter: true
-
-author: [Isidoro Mercogliano]
-lang: en
-
-copyright: false
-edit: false
-logo: false # relative path to your image, eg: assets/logo.png
-disqus: false # your disqus username
-
-nav_version: false
-addons: false
-addons_branch: false
-
-
-
-
-
-# set true will show the addons with blank content
 addons: true
-
-
-# custom github list items, the order is avaiable
 addons:
   - github:
     - homepage
     - issues
     - download
-
-addons_branch: true # show github pages source branch
+# addons_branch: true
