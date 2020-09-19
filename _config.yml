@@ -3,7 +3,7 @@
 remote_theme: rundocs/jekyll-rtd-theme
 title: Architect cheatsheet
 description: Architect is a theme for GitHub Pages.
-show_downloads: false
+show_downloads: true
 
 # fluid: true
 
