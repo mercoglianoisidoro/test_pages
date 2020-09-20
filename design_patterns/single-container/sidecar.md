@@ -18,17 +18,22 @@ sort: 1
 - live in the same machine via an atomic container group (ex. the pod in Kubernetes).
 - share resources (example: parts of the filesystem, hostname and network)
 
-## Advantages
+**Advantages:**
 
 - Modularity
-- Reuse of the components
+- Reuse of components
   - Reduces code duplication in a microservice architecture (as you can reuse component)
 - Reduces the complexity
-- Containers can be independently updated
+- Container can evolve independently
+  - they can be independently updated
+  - they can be implemented in different languages
 
 
 ## Examples
 
 - add HTTPS to a Legacy Service
   - the sidecar act like a proxy
--
+- watchdog
+- configuration synchronization
+- plateform abstration
+
