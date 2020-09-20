@@ -1,5 +1,5 @@
 ---
 sort: 1
 ---
-# Single-container design pattern
+# Single-container design patterns
 
