@@ -8,7 +8,7 @@ sort: 1
 - application container
 - sidecar container
 
-![sidecar](./sidecar.jpg)
+![sidecar](./images/sidecar.jpg)
 
 
 **The role of the sidecar:**
