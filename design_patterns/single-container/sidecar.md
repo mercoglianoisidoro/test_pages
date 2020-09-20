@@ -15,7 +15,7 @@ sort: 1
 - extends / improve the application container, often without the application container’s knowledge.
 
 **Containers...**
-- live in the same machine via an atomic container group (ex. the pod in Kubernetes).
+- live in the same machine via an atomic container group (example: the pod in Kubernetes).
 - share resources (example: parts of the filesystem, hostname and network)
 
 **Advantages:**
