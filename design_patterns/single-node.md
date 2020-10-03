@@ -5,5 +5,7 @@ sort: 1
 
 **One container = you application.**
 
-In many cases this means just create a container for you application. And remember the best practice: one container = one application.
+You just create a container for you application!
+
+But remember the best practice: one container = one application.
 
