@@ -14,9 +14,12 @@ sort: 1
 **The role of the sidecar:**
 - extends / improve the application container, often without the application container’s knowledge.
 
+
 **Containers...**
+
 - live in the same machine via an atomic container group (example: the pod in Kubernetes).
 - share resources (example: parts of the filesystem, hostname and network)
+
 
 **Advantages:**
 
