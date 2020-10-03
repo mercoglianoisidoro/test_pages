@@ -11,7 +11,7 @@ sort: 2
 ![sidecar](./images/ambassador.jpg)
 
 
-**The role of the sidecar:**
+## The role of the Ambassador:
 
 - broker communication coming from the application container to the rest of the world.
 
@@ -27,7 +27,7 @@ The containers:
 - share resources (example: parts of the filesystem, hostname and network)
 
 
-**Advantages:**
+## Advantages:
 
 From the sidecar pattern:
 - Modularity
@@ -42,7 +42,7 @@ Besides:
 - separation of concerns
 
 
-## Examples
+## Examples:
 
 - a proxy for a sharded service
 - beta testing (the ambassador carry the logic to redirect requests prod or beta)

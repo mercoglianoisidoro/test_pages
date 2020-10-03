@@ -11,7 +11,7 @@ sort: 1
 ![sidecar](./images/sidecar.jpg)
 
 
-**The role of the sidecar:**
+## The role of the Sidecar:
 - extends / improve the application container, often without the application container’s knowledge.
 
 
@@ -21,7 +21,7 @@ sort: 1
 - share resources (example: parts of the filesystem, hostname and network)
 
 
-**Advantages:**
+## Advantages:
 
 - Modularity
 - Reuse of components
@@ -32,7 +32,7 @@ sort: 1
   - they can be implemented in different languages
 
 
-## Examples
+## Examples:
 
 - add HTTPS to a Legacy Service
   - the sidecar act like a proxy
