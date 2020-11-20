@@ -34,13 +34,13 @@ Containers are the building blocks for cloud architectural patterns.
 
 **Link:** [cri-o.io](https://cri-o.io/##what-is-cri-o)
 
-## Containerization
+### Containerization
 
 - Goals:
   - establish boundaries around specific resources
   - separation of concerns
 
-## Best practices for building containers
+### Best practices for building containers
 
 [from cloud.google.com](https://cloud.google.com/solutions/best-practices-for-building-containers)
 
@@ -53,7 +53,7 @@ Containers are the building blocks for cloud architectural patterns.
 - Carefully consider whether to use a public image
 
 
-### Specifically for docker containers
+#### Specifically for docker containers
 
 - Optimize for the Docker build cache
 
