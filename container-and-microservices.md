@@ -2,16 +2,19 @@
 sort: 1
 ---
 
-# Container
+
+# Container and Microservices
+
+## Container
 
 **Container:**
 ([from docker.com](www.docker.com)) a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
 
 Containers are the building blocks for cloud architectural patterns.
 
-## Techonologies:
+#### Techonologies:
 
-### Docker
+###### Docker
 
 - **Docker**: ([from kubernetes.io](www.kubernetes.io)) a software technology providing operating-system-level virtualization also known as containers.
 - **Docker container image:** ([from docker.com](www.docker.com)) a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.
@@ -19,25 +22,25 @@ Containers are the building blocks for cloud architectural patterns.
 
 **Link:** [docker.com](https://docs.docker.com/engine/)
 
-### Containerd
+###### Containerd
 
 - **Containerd**: ([from kubernetes.io](www.kubernetes.io)) container runtime with an emphasis on simplicity, robustness and portability.
 
 **Link:** [containerd.io](https://containerd.io/docs/)
 
-### CRI-O
+###### CRI-O
 
 - **CRI-O**: ([from kubernetes.io](www.kubernetes.io)) a lightweight container runtime specifically for Kubernetes.
 
-**Link:** [cri-o.io](https://cri-o.io/#what-is-cri-o)
+**Link:** [cri-o.io](https://cri-o.io/##what-is-cri-o)
 
-# Containerization
+## Containerization
 
 - Goals:
   - establish boundaries around specific resources
   - separation of concerns
 
-# Best practices for building containers
+## Best practices for building containers
 
 [from cloud.google.com](https://cloud.google.com/solutions/best-practices-for-building-containers)
 
@@ -50,19 +53,20 @@ Containers are the building blocks for cloud architectural patterns.
 - Carefully consider whether to use a public image
 
 
-## Specifically for docker containers
+#### Specifically for docker containers
 
 - Optimize for the Docker build cache
 
 
-# Microservices
+
+## Microservices
 
 
 ([from wikipedia ] (https://en.wikipedia.org/wiki/Microservices))
 A microservice is a self-contained piece of business functionality with clear interfaces.
 From a strategy perspective, microservices architecture essentially follows the Unix philosophy of "Do one thing and do it well".
 
-## Some advantages
+#### Some advantages
 
 - reliability
 - agility
@@ -72,10 +76,11 @@ From a strategy perspective, microservices architecture essentially follows the 
 
 The introduction of formal API provide a reliable contract among microservices.
 
-## Some disadvantages
+#### Some disadvantages
 
 - debugging more complicated
 - communication between services is more complicate
 - design and architecture can be more complicate
 
 
+## Container cersus Microservices
