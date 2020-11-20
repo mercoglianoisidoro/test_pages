@@ -1,5 +1,5 @@
 ---
 sort: 2
 ---
-# Cloud Design Patterns
+# Distributed Design Patterns
 
