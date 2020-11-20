@@ -12,9 +12,9 @@ sort: 1
 
 Containers are the building blocks for cloud architectural patterns.
 
-#### Techonologies:
+### Techonologies:
 
-###### Docker
+#### Docker
 
 - **Docker**: ([from kubernetes.io](www.kubernetes.io)) a software technology providing operating-system-level virtualization also known as containers.
 - **Docker container image:** ([from docker.com](www.docker.com)) a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.
@@ -22,13 +22,13 @@ Containers are the building blocks for cloud architectural patterns.
 
 **Link:** [docker.com](https://docs.docker.com/engine/)
 
-###### Containerd
+#### Containerd
 
 - **Containerd**: ([from kubernetes.io](www.kubernetes.io)) container runtime with an emphasis on simplicity, robustness and portability.
 
 **Link:** [containerd.io](https://containerd.io/docs/)
 
-###### CRI-O
+#### CRI-O
 
 - **CRI-O**: ([from kubernetes.io](www.kubernetes.io)) a lightweight container runtime specifically for Kubernetes.
 
@@ -53,7 +53,7 @@ Containers are the building blocks for cloud architectural patterns.
 - Carefully consider whether to use a public image
 
 
-#### Specifically for docker containers
+### Specifically for docker containers
 
 - Optimize for the Docker build cache
 
@@ -66,7 +66,7 @@ Containers are the building blocks for cloud architectural patterns.
 A microservice is a self-contained piece of business functionality with clear interfaces.
 From a strategy perspective, microservices architecture essentially follows the Unix philosophy of "Do one thing and do it well".
 
-#### Some advantages
+### Some advantages
 
 - reliability
 - agility
@@ -76,11 +76,12 @@ From a strategy perspective, microservices architecture essentially follows the 
 
 The introduction of formal API provide a reliable contract among microservices.
 
-#### Some disadvantages
+### Some disadvantages
 
 - debugging more complicated
 - communication between services is more complicate
 - design and architecture can be more complicate
 
 
-## Container cersus Microservices
+## Container versus Microservices
+
