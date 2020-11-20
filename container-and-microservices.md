@@ -90,10 +90,8 @@ In short:
 - a **microservice** is a self-contained piece of business: they contain everything as one unit of execution (from operating system to libraries implementing business logic).
 - a **container** a standard unit of software that encapsulate discrete components of application logic.
 
-
-A microservice may run in a container, or in a VM.
-
-Container engine provide a kind of OS virtualization so a container can implement a microservice.
-
-Rule of thumb: container are building block for services.
+Some additional details: 
+- A microservice may run in a container, or in a VM
+- Container engine provide a kind of OS virtualization so a container can implement a microservice
+- Rule of thumb: container are building block for services.
 
