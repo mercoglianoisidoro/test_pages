@@ -6,7 +6,7 @@ sort: 1
 
 Multi-node patters describe solutions using container spread on multiple machines.
 
-They address problems like: scalability, reliability, redundancy, separation of concerns.
+Examples of addressed problems: scalability, reliability, redundancy, separation of concerns.
 
 The containers:
 - are loosely coupled
