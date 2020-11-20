@@ -12,7 +12,7 @@ sort: 1
 
 
 ## The role of the Sidecar:
-- extends / improve the application container, often without the application container’s knowledge.
+- **extends / improve the application container, often without the application container’s knowledge.**
 
 
 **Containers...**

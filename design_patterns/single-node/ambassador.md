@@ -13,7 +13,7 @@ sort: 2
 
 ## The role of the Ambassador:
 
-- broker communication coming from the application container to the rest of the world.
+- **broker communication coming from the application container to the rest of the world.**
 
 In other words:
 - the ambassador container sends network requests on behalf of the application container
