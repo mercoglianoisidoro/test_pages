@@ -1,16 +1,14 @@
 ---
-sort: 2
+sort: 1
 ---
 
-#  The Ambassador Pattern
+#  Replicated Load-Balanced Services
 
-**Two containers:**
-- application container
-- ambassador container
+Every service is identical
 
 ![sidecar](./images/ambassador.jpg)
 
-
+<!-- 
 ## The role of the Ambassador:
 
 - **broker communication coming from the application container to the rest of the world.**
@@ -49,4 +47,4 @@ Besides:
 - Service Brokering (service broker do services discovering and act as a proxy)
 
 
-
+ -->

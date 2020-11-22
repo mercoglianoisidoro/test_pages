@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-#  The Ambassador Pattern
+#  Ambassador Pattern
 
 **Two containers:**
 - application container

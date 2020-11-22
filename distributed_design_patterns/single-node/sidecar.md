@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-#  The Sidecar Pattern
+#  Sidecar Pattern
 
 **Two containers:**
 - application container

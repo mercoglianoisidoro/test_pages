@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-#  The Adapter Pattern
+#  Adapter Pattern
 
 **Two containers:**
 - application container
