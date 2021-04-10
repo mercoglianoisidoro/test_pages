@@ -35,6 +35,13 @@ Containers can be used as building blocks for cloud architectural patterns.
 
 **Link:** [cri-o.io](https://cri-o.io/##what-is-cri-o)
 
+#### Dyno
+
+- **Dynos**: [form heroku.com](https://www.heroku.com/dynos) isolated, virtualized Linux containers that are designed to execute code based on a user-specified command.
+{: style="text-align: right" }
+**Link:** [heroku.com](https://www.heroku.com)
+
+
 ### Containerization
 
 - Goals:
