@@ -22,25 +22,25 @@ Containers can be used as building blocks for cloud architectural patterns.
 - **Docker Engine:** [from docker.com](https://www.docker.com) an open source containerization technology for building and containerizing your applications.
 
 **Link:** [docker.com](https://docs.docker.com/engine/)
-
+{: style="text-align: right" }
 #### Containerd
 
 - **Containerd**: [from kubernetes.io](https://www.kubernetes.io) container runtime with an emphasis on simplicity, robustness and portability.
 
 **Link:** [containerd.io](https://containerd.io/docs/)
-
+{: style="text-align: right" }
 #### CRI-O
 
 - **CRI-O**: [from kubernetes.io](https://www.kubernetes.io) a lightweight container runtime specifically for Kubernetes.
 
 **Link:** [cri-o.io](https://cri-o.io/##what-is-cri-o)
-
+{: style="text-align: right" }
 #### Dyno
 
 - **Dynos**: [form heroku.com](https://www.heroku.com/dynos) isolated, virtualized Linux containers that are designed to execute code based on a user-specified command.
-{: style="text-align: right" }
-**Link:** [heroku.com](https://www.heroku.com)
 
+**Link:** [heroku.com](https://www.heroku.com)
+{: style="text-align: right" }
 
 ### Containerization
 
@@ -87,9 +87,10 @@ The introduction of formal API provide a reliable contract among microservices.
 
 ### Some disadvantages
 
-- debugging more complicate
-- communication between services is more complicate
-- design and architecture can be more complicate
+- more complicate
+  - debugging
+  - communication between services
+- design and architecture can be more complex
 
 
 ## Container versus Microservices
