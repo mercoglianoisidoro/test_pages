@@ -8,7 +8,7 @@ sort: 1
 ## Container
 
 **Container:**
-([from docker.com](www.docker.com)) a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
+([from docker.com](http://www.docker.com)) a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
 
 Containers are the building blocks for cloud architectural patterns.
 

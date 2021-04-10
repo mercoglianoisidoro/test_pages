@@ -4,11 +4,47 @@ sort: 1
 
 #  Replicated Load-Balanced Services
 
-Every service is identical
+A service is replicated: every service is identical and they are behind a load balancer.
 
-![sidecar](./images/ambassador.jpg)
 
-<!-- 
+
+![replicated-load-balanced-services](./images/replicated-load-balanced-services.jpg)
+
+
+Strategies for the load balancer:
+- round-robin
+- session stickiness
+- implement a probe to check replication availabilities
+- a more complex approach
+
+
+## Stateless Services
+
+Each service replica doesn't need a saved state: each request can be rooted to any service replica.
+
+Replication of this type of service provide **redundancy and scalability**.
+
+Redundancy let to:
+- provide a service level agreement for your system
+
+
+Scalability let to:
+- increase the number of request being processes by the system.
+- decrease the resources used by the system
+
+
+
+
+arrivato a:
+Readiness Probes for Load Balancing
+
+
+
+
+
+
+
+<!--
 ## The role of the Ambassador:
 
 - **broker communication coming from the application container to the rest of the world.**
