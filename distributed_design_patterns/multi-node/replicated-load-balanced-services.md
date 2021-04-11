@@ -36,9 +36,8 @@ Scalability let to:
 
 ## Stateful Services
 
-Each service replica handles status information.
+Each service replica handles status information, that's why you need sticky session (stateful services don't scale well).
 
 Sticky session: once users establish a connection with a particular service, they have to stick with it until the transaction completes.
 
-Stateful services don't scale well.
 
