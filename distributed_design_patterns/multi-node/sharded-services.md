@@ -11,5 +11,5 @@ This type of replication is used scale a service on the size og the state needed
 In other word, it's useful when data to be managed is too much to be handled by one single service.
 
 
-![sharded-services.png](./images/sharded-services.jpg)
+![sharded-services.jpg](./images/sharded-services.jpg)
 

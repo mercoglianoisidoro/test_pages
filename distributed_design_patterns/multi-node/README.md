@@ -17,7 +17,7 @@ The containers:
 ## Goals
 The following patterns have different goals. Here a summary
 
-| Name of the pattern  | main/direct goal                                                | benefits                               |
+| name of the pattern  | main/direct goal                                                | benefits                               |
 | -------------------- | --------------------------------------------------------------- | -------------------------------------- |
 | Replicated services  | Increase the number of request per second the system can manage | reliability, redundancy, and scaling   |
 | Sharded Services     | Increase the amount of data the system can manage               | scale in response to the data size     |
