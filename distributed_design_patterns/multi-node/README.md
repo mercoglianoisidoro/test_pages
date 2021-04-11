@@ -21,5 +21,5 @@ The following patterns have different goals. Here a summary
 | -------------------- | --------------------------------------------------------------- | -------------------------------------- |
 | Replicated services  | Increase the number of request per second the system can manage | reliability, redundancy, and scaling   |
 | Sharded Services     | Increase the amount of data the system can manage               | scale in response to the data size     |
-
+| Scatter/Gather       | Reduce the response time of the system                          | reduce response time of the system     |
 
